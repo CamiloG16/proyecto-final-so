@@ -1,3 +1,5 @@
+`n## Integrantes`n`n- Juan Camilo García`n- Luciano Barbosa`n- Jose David Mayor`n- Karen Andrea Mosquera"
+
 # Herramienta de Administración de Data Center
 
 Proyecto Final — **Sistemas Operacionales**
