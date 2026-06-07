@@ -1,11 +1,16 @@
-`n## Integrantes`n`n- Juan Camilo García`n- Luciano Barbosa`n- Jose David Mayor`n- Karen Andrea Mosquera"
+Integrantes:` 
+`Juan Camilo García`
+`Luciano Barbosa`
+`Jose David Mayor
+`Karen Andrea Mosquera"
 
 # Herramienta de Administración de Data Center
 
 Proyecto Final — **Sistemas Operacionales**
 Universidad Icesi · Facultad de Ingeniería, Diseño y Ciencias Aplicadas
 
-Este repositorio contiene **dos herramientas** que facilitan las labores del administrador de un data center, una desarrollada en **BASH** (Linux) y otra en **PowerShell** (Windows). Ambas despliegan un menú con las mismas cinco opciones requeridas en el enunciado.
+Este repositorio contiene **dos herramientas** que facilitan las labores del administrador de un data center, una desarrollada en **BASH** (Linux) y otra en **PowerShell** (Windows). Ambas despliegan un menú con las mismas cinco opciones requeridas en
+el enunciado.
 
 ---
 
